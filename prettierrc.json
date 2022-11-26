@@ -1,0 +1,7 @@
+{
+    "singleQuote": true,
+    "parser": "flow",
+    "semi": true,
+    "printWidth": 80,
+    "bracketSpacing": true
+}
